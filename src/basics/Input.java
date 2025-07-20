@@ -1,8 +1,8 @@
-package day1;
+package basics;
 
 import java.util.Scanner;
 
-public class input {
+public class Input {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
         System.out.println("Enter an integer: ");
